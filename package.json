@@ -1,0 +1,22 @@
+{
+  "name": "lanjie",
+  "version": "0.0.1",
+  "description": "<p align=\"center\"> \t<img alt=\"logo\" src=\"https://oscimg.oschina.net/oscnet/up-d3d0a9303e11d522a06cd263f3079027715.png\"> </p> <h1 align=\"center\" style=\"margin: 30px 0 30px; font-weight: bold;\">RuoYi v0.0.1</h1> <h4 align=\"center\">基于SpringBoot+Vue前后端分离的Java快速开发框架</h4> <p align=\"center\"> \t<a href=\"https://gitee.com/y_project/RuoYi-Vue/stargazers\"><img src=\"https://gitee.com/y_project/RuoYi-Vue/badge/star.svg?theme=dark\"></a> \t<a href=\"https://gitee.com/y_project/RuoYi-Vue\"><img src=\"https://img.shields.io/badge/RuoYi-v0.0.1-brightgreen.svg\"></a> \t<a href=\"https://gitee.com/y_project/RuoYi-Vue/blob/master/LICENSE\"><img src=\"https://img.shields.io/github/license/mashape/apistatus.svg\"></a> </p>",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QWERQAQ2QAQ/lanjie.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QWERQAQ2QAQ/lanjie/issues"
+  },
+  "homepage": "https://github.com/QWERQAQ2QAQ/lanjie#readme"
+}
